@@ -1,0 +1,79 @@
+.App {
+	overflow: hidden;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	width: 100%;
+	background: #222222;
+}
+
+input {
+	height: 30px;
+	width: 250px;
+	border: none;
+	border-bottom: 1px solid whitesmoke;
+	background: none;
+	color: white;
+	padding: 0 10px;
+	outline: none;
+}
+
+.btn {
+	width: 100px;
+	height: 30px;
+	font-size: 12px;
+	background: none;
+	border: 1px solid whitesmoke;
+	color: whitesmoke;
+	margin-left: 10px;
+	transition: all 0.3s linear;
+}
+.btn:hover {
+	background: whitesmoke;
+	color: #222222;
+	cursor: pointer;
+}
+
+.todo__item {
+	position: absolute;
+	cursor: move;
+	min-width: 215px;
+	color: black;
+	padding: 1em;
+	border-radius: 5px;
+}
+
+.delete {
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	background: none;
+	border: none;
+	font-weight: 700;
+}
+.delete:hover {
+	color: red;
+	cursor: pointer;
+}
+
+.info {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	color: whitesmoke;
+}
+
+.hint {
+	padding-left: 10px;
+	color: whitesmoke;
+	margin-top: 10px;
+	visibility: hidden;
+}
+
+.showHint {
+	visibility: visible;
+}
