@@ -2,7 +2,7 @@
 	"name": "unusual-todo-react",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "jixlen999.github.io/react-unusual-todo-app",
+	"homepage": "https://jixlen999.github.io/react-unusual-todo-app",
 	"dependencies": {
 		"@emotion/react": "^11.10.0",
 		"@emotion/styled": "^11.10.0",
