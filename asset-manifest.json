@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jixlen999.github.io/react-unusual-todo-app/static/css/main.3c76e034.css",
+    "main.js": "/jixlen999.github.io/react-unusual-todo-app/static/js/main.56b43e7c.js",
+    "index.html": "/jixlen999.github.io/react-unusual-todo-app/index.html",
+    "main.3c76e034.css.map": "/jixlen999.github.io/react-unusual-todo-app/static/css/main.3c76e034.css.map",
+    "main.56b43e7c.js.map": "/jixlen999.github.io/react-unusual-todo-app/static/js/main.56b43e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c76e034.css",
+    "static/js/main.56b43e7c.js"
+  ]
+}
